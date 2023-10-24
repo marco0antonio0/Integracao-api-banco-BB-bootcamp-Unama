@@ -1,4 +1,4 @@
-# api-banco-BB--bootcamp-Unama
+# api-banco-BB-bootcamp-Unama
 - Acesso rapido
   - [Acessa o diagrama de caso de uso](https://online.visual-paradigm.com/share.jsp?id=323737363635382d37)
   
